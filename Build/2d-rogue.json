@@ -1,0 +1,15 @@
+{
+"companyName": "MiltonDemo",
+"productName": "2DRogue",
+"productVersion": "1.0",
+"dataUrl": "2d-rogue.data.unityweb",
+"wasmCodeUrl": "2d-rogue.wasm.code.unityweb",
+"wasmFrameworkUrl": "2d-rogue.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.21f1"
+}
