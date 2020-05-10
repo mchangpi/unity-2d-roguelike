@@ -13,8 +13,9 @@ Thanks
 2. 主角可以敲破內牆，獲取食物，走到出口(EXIT)以進到下一關
 3. 敵人會追擊主角並使主角損失食物
 4. 主角與敵人的2Ｄ動畫設定
-5. 設定 ＧameManager 物件以管理關卡
-   此 GameManager 物件是以 Singleton 模式生成
+5. 設定 ＧameManager 物件以管理關卡  
+   此 GameManager 物件是以 Singleton 模式生成  
+
 謝謝
 
 Milton Chang (張志榮)  
