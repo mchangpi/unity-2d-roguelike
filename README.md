@@ -3,6 +3,8 @@ Please play the game via: https://mchangpi.github.io/unity-2d-roguelike/
 Please use ARROW keys to move the player to the EXIT tile  
 Thanks
 
+[![Alt text](https://img.youtube.com/vi/lJKAQXyi3Ag/0.jpg)](https://www.youtube.com/watch?v=lJKAQXyi3Ag)
+
 此遊戲是修改自 Unity Learn: 2D Roguelike   
 請由此連結試玩遊戲 https://mchangpi.github.io/unity-2d-roguelike/  
 請使用方向鍵移動主角至出口(EXIT)  
